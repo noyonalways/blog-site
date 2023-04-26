@@ -1,6 +1,6 @@
-import Blogs from "@/components/Blogs/Blogs";
 import MainLayout from "@/layouts/MainLayout";
 import Head from "next/head";
+import HeroSection from "@/components/HeroSection/HeroSection";
 
 export default function Home() {
 	return (
@@ -13,9 +13,9 @@ export default function Home() {
 			</Head>
 			<main>
 				<MainLayout>
-					<Blogs />
+					<HeroSection />
 				</MainLayout>
 			</main>
 		</>
-	);
+	);	
 }

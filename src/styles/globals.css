@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -15,5 +16,18 @@
 
     p{
         @apply text-gray-500 dark:text-gray-400 text-base;
+    }
+    a{
+        @apply text-gray-500 dark:text-gray-400;
+    }
+}
+
+@layer components {
+    .btn{
+        @apply inline-block rounded px-4 py-2 font-bold border border-gray-300/[.6] shadow-sm dark:border-gray-600/[.6] focus:outline-none focus-visible:ring focus-visible:ring-primary-500 scale-100 hover:scale-[1.03] active:scale-[0.97] motion-safe:transform-gpu motion-reduce:hover:scale-100 motion-reduce:hover:brightness-90 transition duration-100 bg-white text-gray-800 disabled:bg-gray-200  dark:text-gray-100 dark:bg-dark;
+    }
+
+    .min-h-main {
+        min-height: calc(100vh - 82px);
     }
 }
