@@ -3,8 +3,8 @@ import Image from "next/image";
 
 export default function BlogCard() {
 	return (
-		<li className="hover:scale-[1.03] duration-150">
-			<div className=" shadow-md border border-gray-200/[.3] rounded-lg  mb-5">
+		<li className="hover:scale-[1.01] duration-200 transition-all">
+			<div className="shadow-md border border-gray-100/10 hover:border-gray-100/30 rounded-lg mb-5 duration-200">
 				<a href="#">
 					<Image
 						width={400}

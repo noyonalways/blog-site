@@ -33,6 +33,7 @@ module.exports = {
 			fontFamily: {
 				hindSiliguri: ["Hind Siliguri", "sans-serif"],
 				spaceGrotesk: ["Space Grotesk", "sans-serif"],
+				inter: ["Inter", "sans-serif"],
 			},
 			colors: {
 				dark: "#121212",
@@ -42,8 +43,9 @@ module.exports = {
 				},
 			},
 			backgroundImage: {
-				lightNess: "url('/bg.jpg')",
-				'light-dark': "url('/dark-bg.png')"
+				dark: "url('/bg.jpg')",
+				light: "url('/light.png')",
+				grid: "url('/grid-bg.svg')",
 			},
 			
 		},

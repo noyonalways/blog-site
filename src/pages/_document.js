@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <body className='font-spaceGrotesk'>
+      <body className='font-spaceGrotesk dark:bg-[#0d1224]'>
         <Main />
         <NextScript />
       </body>

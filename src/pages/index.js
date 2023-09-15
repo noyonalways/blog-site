@@ -1,6 +1,9 @@
-import MainLayout from "@/layouts/MainLayout";
-import Head from "next/head";
+
 import HeroSection from "@/components/HeroSection/HeroSection";
+import MainLayout from "@/layouts/MainLayout";
+import Footer from "@/shared/Footer";
+import Head from "next/head";
+
 
 export default function Home() {
 	return (
@@ -14,6 +17,7 @@ export default function Home() {
 			<main>
 				<MainLayout>
 					<HeroSection />
+					<Footer />
 				</MainLayout>
 			</main>
 		</>
