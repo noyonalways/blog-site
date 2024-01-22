@@ -1,38 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Banner Image](https://i.ibb.co/c2pZFSp/tinny-banner.png)
 
-## Getting Started
+<div align='center' >
 
-First, run the development server:
+<a href="https://blog-site-web.vercel.app/">Live Preview</a>
+<br/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## A modern, beautiful way to learn.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+We're on a mission to bring transparency to Bloging. We charge as little as possible, and we always show you upfront.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![GitHub repo size](https://img.shields.io/github/repo-size/noyonalways/blog-site)
+![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/noyonalways/blog-site)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fblog-site-web.vercel.app%2F)
+![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/noyonalways/blog-site/main)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+</div>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Connect with me
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<div align='center' >
 
-## Learn More
+[![Facebook Badge](https://img.shields.io/badge/-noyonalways-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white)](https://facebook.com/noyonalways)
+[![Instagram Badge](https://img.shields.io/badge/-noyonalways-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white)](https://instagram.com/noyonalways)
+[![Linkedin Badge](https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noyonalways)
+[![Email Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:noyonalways+github@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-deskofnoyon-c14438?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@deskofnoyon)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+</div>
